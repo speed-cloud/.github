@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://groupe-speed.cloud/logo.png" width="383" height="975" />
+  <img src="https://groupe-speed.cloud/logo.png" width="383" />
   <br /><br />
   L'association humaine et ardennaise par excellence !
 </div>
