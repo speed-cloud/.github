@@ -13,4 +13,4 @@ Fondée en mars 2023 par Axel et [Maxime](https://github.com/@mponsart), nos vis
 
 Pour nos projets open-sources, nous sommes ouverts à toute contribution. <br />
 Si vous avez une question, contactez-nous par [e-mail](mailto:contact@groupe-speed.cloud) ou par téléphone au **+33 (0)3 10 93 09 79** (appel non surtaxé). <br />
-Nous nous ferons une grande joie de vous répondre avec plaisir 😊
+Nous nous ferons une grande joie de vous répondre 😊
