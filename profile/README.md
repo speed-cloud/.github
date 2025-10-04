@@ -7,7 +7,7 @@
 ## Parlons (brièvement) de nous
 
 Nous sommes une association **humaine** et **ardennaise** visant à rendre le monde de l'hébergement accessible pour tous. <br />
-Fondée en mars 2023 par Axel et [Maxime](https://github.com/@mponsart), nos visions de l'époque étaient clairement différentes.
+Fondée en mars 2023 par Axel et [Maxime](https://github.com/mponsart), nos visions de l'époque étaient clairement différentes.
 
 ## Parlez avec nous
 
